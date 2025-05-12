@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hafsa1202
+- 👋 
 - 🌱 I’m currently learning data analytics with Python
 - 💞️ I am excited to showcase my first data analysis project. In this project, I performed basic data manipulation, data cleaning, and data visualization using Jupyter Notebook, with the help of the Python libraries Pandas, Matplotlib, and Seaborn.
   
